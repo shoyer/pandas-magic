@@ -1,5 +1,5 @@
 pandas-magic
-############
+============
 
 pandas-magic introduces argumentless `lambda` function ("thunks") to copy the chaining magic of R's dplyr with pandas.
 
